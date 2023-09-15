@@ -1,4 +1,4 @@
-- 👋 你好，我是 @wibetauser，也就是 BiliBili 的 WinBetaUser。
+- 👋 你好，我是 @winbetauser，也就是 BiliBili 的 WinBetaUser。
 - 👀 我对 Windows Longhorn 和 Windows Server 2012 R2 感兴趣。
 - 🌱 我现在正在学习 WinUI 3。
 - 💞️ I’m looking to collaborate on ...
