@@ -1,5 +1,5 @@
 - 👋 你好，我是 @winbetauser，也就是 [BiliBili 的 WinBetaUser](http://space.bilibili.com/410645610)。
-- 👀 我对 [Windows Longhorn](https://betawiki.net/wiki/Windows_Vista) 感兴趣。
+- 👀 我对 Windows Longhorn 感兴趣。
 - 🌱 我有一个团队，那就是 [@wbmui（WinBetaMUI Team）](https://github.com/wbmui)。
 
 <!---
